@@ -1,2 +1,3 @@
-# CodeforcesTopicModeling
-Automated tag prediction for codeforces problems
+# Codeforces tag prediction
+
+Suggesting problem tags based on accepted solutions
